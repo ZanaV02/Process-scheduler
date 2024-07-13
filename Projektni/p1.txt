@@ -1,0 +1,7 @@
+5
+p1 6 2 0
+p2 2 5 0
+p3 8 1 0
+p4 3 0 0
+p5 4 4 0
+ime|trajanje|nailazak|prioritet
